@@ -1,1 +1,1 @@
-Hello-hello
+Это репозиторий с заданием для Stepik по Git
